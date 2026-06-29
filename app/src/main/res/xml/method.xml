@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.colorkey.keyboard.settings.SettingsActivity"
+    android:icon="@mipmap/ic_launcher"
+    android:label="@string/keyboard_label">
+    
+    <subtype
+        android:label="@string/subtype_en_US"
+        android:languageTag="en-US"
+        android:imeSubtypeLocale="en_US"
+        android:imeSubtypeMode="keyboard" />
+        
+    <subtype
+        android:label="English (UK)"
+        android:languageTag="en-GB"
+        android:imeSubtypeLocale="en_GB"
+        android:imeSubtypeMode="keyboard" />
+        
+</input-method>

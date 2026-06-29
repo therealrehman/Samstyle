@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6B6B</color>
+    <color name="primary_dark">#EE5A5A</color>
+    <color name="primary_light">#FF8E8E</color>
+    <color name="accent">#4ECDC4</color>
+    <color name="accent_dark">#3DBDB5</color>
+    
+    <color name="bg_light">#FAFAFA</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_dark">#1A1A2E</color>
+    <color name="bg_dark_card">#16213E</color>
+    
+    <color name="glass_white">#80FFFFFF</color>
+    <color name="glass_dark">#801A1A2E</color>
+    <color name="glass_border">#40FFFFFF</color>
+    
+    <color name="key_default">#F0F0F0</color>
+    <color name="key_pressed">#E0E0E0</color>
+    <color name="key_dark">#2D2D44</color>
+    <color name="key_dark_pressed">#3D3D5C</color>
+    
+    <color name="text_primary">#2C3E50</color>
+    <color name="text_secondary">#7F8C8D</color>
+    <color name="text_light">#FFFFFF</color>
+    <color name="text_hint">#B0BEC5</color>
+    
+    <color name="neon_pink">#FF006E</color>
+    <color name="neon_blue">#00F5FF</color>
+    <color name="neon_green">#39FF14</color>
+    <color name="neon_purple">#BF00FF</color>
+    <color name="neon_yellow">#FFFF00</color>
+    <color name="neon_orange">#FF6600</color>
+    
+    <color name="pastel_pink">#FFB3BA</color>
+    <color name="pastel_blue">#BAE1FF</color>
+    <color name="pastel_green">#BAFFC9</color>
+    <color name="pastel_yellow">#FFFFBA</color>
+    <color name="pastel_purple">#E6BAFF</color>
+    <color name="pastel_peach">#FFDFBA</color>
+    
+    <color name="ocean_deep">#006994</color>
+    <color name="ocean_mid">#0096C7</color>
+    <color name="ocean_light">#48CAE4</color>
+    <color name="ocean_surface">#90E0EF</color>
+    <color name="ocean_foam">#CAF0F8</color>
+    
+    <color name="sunset_red">#FF4500</color>
+    <color name="sunset_orange">#FF8C00</color>
+    <color name="sunset_gold">#FFD700</color>
+    <color name="sunset_pink">#FF69B4</color>
+    <color name="sunset_purple">#DA70D6</color>
+    
+    <color name="ripple_default">#40FFFFFF</color>
+    <color name="glow_default">#80FF6B6B</color>
+    <color name="particle_gold">#FFD700</color>
+    <color name="particle_silver">#C0C0C0</color>
+    
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent">#80000000</color>
+</resources>

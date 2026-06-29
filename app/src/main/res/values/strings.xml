@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorKey Keyboard</string>
+    <string name="keyboard_label">ColorKey</string>
+    <string name="subtype_en_US">English (US)</string>
+    
+    <string name="tab_themes">Themes</string>
+    <string name="tab_effects">Effects</string>
+    <string name="tab_sounds">Sounds</string>
+    <string name="tab_emoji">Emoji</string>
+    
+    <string name="theme_classic">Classic</string>
+    <string name="theme_neon">Neon Glow</string>
+    <string name="theme_pastel">Pastel Dream</string>
+    <string name="theme_ocean">Ocean Wave</string>
+    <string name="theme_sunset">Sunset Vibes</string>
+    <string name="theme_midnight">Midnight</string>
+    <string name="theme_rainbow">Rainbow Blast</string>
+    <string name="theme_cyber">Cyber Punk</string>
+    
+    <string name="effect_none">None</string>
+    <string name="effect_ripple">Ripple</string>
+    <string name="effect_particle">Particles</string>
+    <string name="effect_radar">Radar Pulse</string>
+    <string name="effect_bloom">Bloom Glow</string>
+    <string name="effect_shockwave">Shockwave</string>
+    
+    <string name="sound_mechanical">Mechanical</string>
+    <string name="sound_typewriter">Typewriter</string>
+    <string name="sound_bubble">Bubble Pop</string>
+    <string name="sound_wood">Wood Block</string>
+    <string name="sound_digital">Digital</string>
+    <string name="sound_soft">Soft Touch</string>
+    <string name="sound_custom">Custom</string>
+    
+    <string name="label_apply">Apply</string>
+    <string name="label_preview">Preview</string>
+    <string name="label_customize">Customize</string>
+    <string name="label_volume">Volume</string>
+    <string name="label_vibration">Vibration</string>
+    <string name="label_key_size">Key Size</string>
+    <string name="label_animation_speed">Animation Speed</string>
+    <string name="label_blend_intensity">Blend Intensity</string>
+    
+    <string name="desc_master_theme">Radial color animation on every key press</string>
+    <string name="desc_key_blend">Keys blend colors when pressed</string>
+    <string name="desc_board_blend">Keyboard background color shifts</string>
+    <string name="desc_key_motion">Keys animate with press motion</string>
+    
+    <string name="key_a">A</string>
+    <string name="key_b">B</string>
+    <string name="key_shift">Shift</string>
+    <string name="key_delete">Delete</string>
+    <string name="key_space">Space</string>
+    <string name="key_enter">Enter</string>
+    <string name="key_symbols">\?123</string>
+    <string name="key_emoji">Emoji</string>
+    
+    <string name="toast_theme_applied">Theme applied!</string>
+    <string name="toast_effect_applied">Effect applied!</string>
+    <string name="toast_sound_applied">Sound applied!</string>
+    <string name="toast_enable_keyboard">Please enable ColorKey in settings</string>
+</resources>
